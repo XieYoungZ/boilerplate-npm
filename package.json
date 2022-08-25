@@ -1,5 +1,6 @@
 {
-	"name": "Yunze Xie",
+	"name": "fcc-learn-npm-package-json",
+	"author":"Yunze Xie",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
